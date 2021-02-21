@@ -6,7 +6,7 @@ public class DemoMethod {
     }
 
     public static void isEvenNumber(int num){
-        System.out.println();
+        System.out.println("master分支");
         if(num%2 == 0){
             System.out.println("偶数");
         }else{
